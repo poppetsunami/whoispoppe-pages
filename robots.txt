@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /work/
+
+# Private case studies are also marked noindex in their route shells.

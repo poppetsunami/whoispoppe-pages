@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Signal and Scale Review feature</title>
+  <desc id="desc">A product and digital-presence review moving from the current experience through focused signals to prioritized opportunities.</desc>
+  <rect width="1200" height="760" rx="52" fill="#f4f2ec"/>
+  <rect x="64" y="62" width="1072" height="636" rx="36" fill="#fff" stroke="#d8d6d0" stroke-width="3"/>
+  <text x="118" y="145" fill="#171717" font-family="Poppins,Arial,sans-serif" font-size="42" font-weight="700">SIGNAL &amp; SCALE REVIEW</text>
+  <text x="118" y="188" fill="#696969" font-family="Poppins,Arial,sans-serif" font-size="22">Turn a product or digital presence into a focused improvement agenda.</text>
+  <g transform="translate(118 250)">
+    <rect width="250" height="310" rx="28" fill="#151515"/>
+    <text x="34" y="58" fill="#6de0a6" font-family="Poppins,Arial,sans-serif" font-size="18" font-weight="700">CURRENT EXPERIENCE</text>
+    <circle cx="56" cy="116" r="14" fill="#6de0a6"/><rect x="88" y="102" width="118" height="24" rx="12" fill="#555"/>
+    <circle cx="56" cy="174" r="14" fill="#6de0a6" opacity=".68"/><rect x="88" y="160" width="88" height="24" rx="12" fill="#555"/>
+    <circle cx="56" cy="232" r="14" fill="#6de0a6" opacity=".4"/><rect x="88" y="218" width="136" height="24" rx="12" fill="#555"/>
+  </g>
+  <path d="M404 404h110" stroke="#171717" stroke-width="4" stroke-dasharray="10 10"/>
+  <g transform="translate(520 250)">
+    <rect width="250" height="310" rx="28" fill="#e8fff2" stroke="#6de0a6" stroke-width="3"/>
+    <text x="34" y="58" fill="#17643e" font-family="Poppins,Arial,sans-serif" font-size="18" font-weight="700">PRODUCT &amp; DIGITAL PRESENCE</text>
+    <rect x="34" y="98" width="182" height="48" rx="24" fill="#fff"/><rect x="34" y="166" width="182" height="48" rx="24" fill="#fff"/><rect x="34" y="234" width="182" height="48" rx="24" fill="#fff"/>
+    <text x="58" y="128" fill="#171717" font-family="Poppins,Arial,sans-serif" font-size="16">Experience signals</text>
+    <text x="58" y="196" fill="#171717" font-family="Poppins,Arial,sans-serif" font-size="16">Presence &amp; clarity</text>
+    <text x="58" y="264" fill="#171717" font-family="Poppins,Arial,sans-serif" font-size="16">Operational fit</text>
+  </g>
+  <path d="M806 404h110" stroke="#171717" stroke-width="4" stroke-dasharray="10 10"/>
+  <g transform="translate(922 292)">
+    <circle cx="92" cy="112" r="92" fill="#6de0a6"/>
+    <path d="m52 111 28 28 56-67" fill="none" stroke="#151515" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="-18" y="236" fill="#171717" font-family="Poppins,Arial,sans-serif" font-size="16" font-weight="700">PRIORITIZED OPPORTUNITIES</text>
+  </g>
+</svg>

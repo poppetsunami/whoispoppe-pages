@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Research Intelligence workflow feature</title>
+  <desc id="desc">Evidence records connected to interpretations and a reviewable decision.</desc>
+  <rect width="1200" height="760" rx="52" fill="#111"/>
+  <circle cx="1040" cy="130" r="250" fill="#6de0a6" opacity=".13"/>
+  <text x="76" y="104" fill="#fafafa" font-family="Poppins,Arial,sans-serif" font-size="42" font-weight="700">RESEARCH INTELLIGENCE</text>
+  <text x="78" y="148" fill="#a6a6a6" font-family="Poppins,Arial,sans-serif" font-size="22">Keep evidence, interpretation, and decisions connected.</text>
+  <g transform="translate(76 226)">
+    <rect width="280" height="360" rx="28" fill="#242424" stroke="#494949" stroke-width="2"/>
+    <text x="30" y="52" fill="#6de0a6" font-family="Poppins,Arial,sans-serif" font-size="18" font-weight="700">EVIDENCE</text>
+    <rect x="30" y="84" width="220" height="68" rx="15" fill="#343434"/><rect x="30" y="172" width="220" height="68" rx="15" fill="#343434"/><rect x="30" y="260" width="220" height="68" rx="15" fill="#343434"/>
+  </g>
+  <path d="M382 406h94" stroke="#6de0a6" stroke-width="4" stroke-dasharray="10 10"/>
+  <g transform="translate(480 226)">
+    <rect width="280" height="360" rx="28" fill="#f7f5ef"/>
+    <text x="30" y="52" fill="#17643e" font-family="Poppins,Arial,sans-serif" font-size="18" font-weight="700">INTERPRETATION</text>
+    <path d="M34 110h212M34 154h168M34 198h196M34 242h144" stroke="#aaa69d" stroke-width="16" stroke-linecap="round"/>
+    <rect x="30" y="290" width="142" height="42" rx="21" fill="#c8f5dc"/>
+  </g>
+  <path d="M786 406h94" stroke="#6de0a6" stroke-width="4" stroke-dasharray="10 10"/>
+  <g transform="translate(884 276)">
+    <rect width="240" height="260" rx="28" fill="#6de0a6"/>
+    <text x="30" y="54" fill="#171717" font-family="Poppins,Arial,sans-serif" font-size="18" font-weight="700">DECISION</text>
+    <text x="30" y="116" fill="#171717" font-family="Poppins,Arial,sans-serif" font-size="44" font-weight="700">0007</text>
+    <path d="M30 158h174M30 194h132" stroke="#25764e" stroke-width="14" stroke-linecap="round"/>
+  </g>
+</svg>

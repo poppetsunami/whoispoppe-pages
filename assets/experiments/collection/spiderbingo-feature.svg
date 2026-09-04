@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">SpiderBingo product feature</title>
+  <desc id="desc">A playful bingo grid connected by a loose web motif.</desc>
+  <rect width="1200" height="760" rx="52" fill="#151515"/>
+  <circle cx="1010" cy="115" r="190" fill="#6de0a6" opacity=".14"/>
+  <g fill="none" stroke="#6de0a6" stroke-width="3" opacity=".45">
+    <path d="M95 624 317 116 590 650 858 120 1100 625"/>
+    <path d="M80 220 1107 530M140 520 1060 220M330 90 900 685"/>
+  </g>
+  <g transform="translate(360 142)">
+    <rect width="480" height="480" rx="34" fill="#faf8f3"/>
+    <g stroke="#171717" stroke-width="7">
+      <path d="M96 0v480M192 0v480M288 0v480M384 0v480"/>
+      <path d="M0 96h480M0 192h480M0 288h480M0 384h480"/>
+    </g>
+    <circle cx="240" cy="240" r="42" fill="#6de0a6"/>
+    <g fill="#171717">
+      <circle cx="48" cy="48" r="13"/><circle cx="144" cy="144" r="13"/><circle cx="336" cy="48" r="13"/>
+      <circle cx="432" cy="240" r="13"/><circle cx="48" cy="432" r="13"/><circle cx="336" cy="336" r="13"/>
+    </g>
+  </g>
+  <text x="70" y="92" fill="#faf8f3" font-family="Poppins,Arial,sans-serif" font-size="44" font-weight="700">SPIDERBINGO</text>
+  <text x="72" y="690" fill="#a8a8a8" font-family="Poppins,Arial,sans-serif" font-size="24">A playful participation experiment</text>
+</svg>
